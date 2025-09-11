@@ -1,0 +1,26 @@
+[project]
+name = "scaling-laws"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "absl-py>=2.3.0",
+    "accelerate>=1.10.0",
+    "gibberish>=0.4.0",
+    "ipykernel>=6.29.5",
+    "jsonargparse>=4.40.0",
+    "matplotlib>=3.10.3",
+    "openai>=1.82.0",
+    "pandas>=2.3.0",
+    "peft>=0.17.0",
+    "pyyaml>=6.0.2",
+    "random-word>=1.0.13",
+    "scienceplots>=2.1.1",
+    "torch>=2.7.0",
+    "tqdm>=4.67.1",
+    "transformers<4.54.0",
+    "trl<0.21.0",
+    "vllm>=0.9.0",
+    "wandb>=0.19.11",
+]
