@@ -1,21 +1,19 @@
 # The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs
 
-This project contains the code accompanying the paper [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](https://arxiv.org/abs/2509.09677). 
+This project contains the code accompanying the ICLR 2026 paper *The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs* ([OpenReview](https://openreview.net/forum?id=3lm8lWYxiq), [arXiv](https://arxiv.org/abs/2509.09677)). 
 
 Link to [Dataset Page](https://huggingface.co/datasets/arvindh75/Long-Horizon-Execution)
 
 If you like our work, consider citing us!
 
 ```
-@misc{
-      sinha2025illusiondiminishingreturnsmeasuring,
-      title={The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs}, 
+@inproceedings{
+      sinha2026the,
+      title={The Illusion of Diminishing Returns: Measuring Long Horizon Execution in {LLM}s},
       author={Akshit Sinha and Arvindh Arun and Shashwat Goel and Steffen Staab and Jonas Geiping},
-      year={2025},
-      eprint={2509.09677},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2509.09677}, 
+      booktitle={The Fourteenth International Conference on Learning Representations},
+      year={2026},
+      url={https://openreview.net/forum?id=3lm8lWYxiq}
 }
 ```
 
