@@ -1,6 +1,6 @@
 # The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs
 
-This project contains the code accompanying the ICLR 2026 paper [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](https://arxiv.org/abs/2509.09677). 
+This project contains the code accompanying the ICLR 2026 paper *The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs* ([OpenReview](https://openreview.net/forum?id=3lm8lWYxiq), [arXiv](https://arxiv.org/abs/2509.09677)). 
 
 Link to [Dataset Page](https://huggingface.co/datasets/arvindh75/Long-Horizon-Execution)
 
